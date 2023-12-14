@@ -104,6 +104,14 @@ Dengan diberikan sebuah aplikasi berbasis API dengan spesifikasi terlampir, sela
 ![Diagram Tanpa Judul-Copy of Halaman-1 drawio](https://github.com/Almambul/FP-TKA-D1/assets/107543354/743cd657-7cc6-4d69-9a06-1b8a5d8679ec)
 
 ## Spesifikasi Harga
+| No. |   Nama    |    Spesifikasi    |       Fungsi      |   Harga/Bulan   |
+| --- | --------- | ----------------- | ----------------- | --------------- |
+|  1  | Droplet 1 | 1vCPU, 1GB Memory |   Load Balancer   |       $6        |
+|  2  | Droplet 2 | 1vCPU, 2GB Memory |      Worker       |       $12       |
+|  3  | Droplet 3 | 1vCPU, 2GB Memory |      Worker       |       $12       |
+|  4  | Droplet 4 | 1vCPU, 2GB Memory |  Database Server  |       $30       |
+|     |           |                   |                   |        $60      |
+
 
 ## Langkah Implementasi dan Konfigurasi 
 - Load Balancing
