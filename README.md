@@ -101,6 +101,7 @@ Dengan diberikan sebuah aplikasi berbasis API dengan spesifikasi terlampir, sela
    - **Connection URI:** `mongodb://localhost:27017/orders_db `
 
 ## Desain Rancangan Arsitektur Komputasi Awan
+![Diagram Tanpa Judul-Copy of Halaman-1 drawio](https://github.com/Almambul/FP-TKA-D1/assets/107543354/743cd657-7cc6-4d69-9a06-1b8a5d8679ec)
 
 ## Spesifikasi Harga
 
