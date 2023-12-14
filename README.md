@@ -8,6 +8,17 @@
 | Sedtia Prakoso         | 5027211013 |
 | Refaldi Agustian       | 5027211015 |
 
+## Daftar Isi
+* [Anggota Kelompok TKA D-1](##AnggotaKelompokTKAD-1)
+* [Daftar Isi](##DaftarIsi)
+* [Pengenalan Permasalahan](##PengenalanPermasalahan)
+* [Desain Rancangan Arsitektur Komputasi Awan](##DesainRancanganArsitekturKomputasiAwan)
+* [Spesifikasi Harga](##SpesifikasiHarga)
+* [Langkah Implementasi dan Konfigurasi](##LangkahImplementasidanKonfigurasi)
+* [Hasil Pengujian dan Analisis Loadtesting Menggunakan Locust](##HasilPengujiandanAnalisisLoadtestingMenggunakanLocust)
+* [Kesimpulan](##Kesimpulan)
+* [Saran](##Saran)
+
 ## Pengenalan Permasalahan
 Sebagai lulusan Teknologi Informasi dan juga Ahli IT, kualifikasi kemampuan yang perlu dimiliki adalah kemampuan merancang, membangun, mengelola aplikasi berbasis komputer menggunakan layanan awan untuk memenuhi kebutuhan organisasi.  
 
@@ -93,7 +104,7 @@ Dengan diberikan sebuah aplikasi berbasis API dengan spesifikasi terlampir, sela
 
 ## Spesifikasi Harga
 
-## Langkah Implementasi dan konfigurasi teknologinya 
+## Langkah Implementasi dan Konfigurasi 
 - Load Balancing
   
 - Instalasi app.py
@@ -101,7 +112,7 @@ Dengan diberikan sebuah aplikasi berbasis API dengan spesifikasi terlampir, sela
 - Instalasi mongodb
 
   
-## Hasil Pengujian endpoint setiap API
+## Hasil Pengujian Endpoint Setiap API
 - Get All Orders
   
 - Get a Specific Order by ID
@@ -113,7 +124,7 @@ Dengan diberikan sebuah aplikasi berbasis API dengan spesifikasi terlampir, sela
 - Delete an Order by ID
 
 
-## Hasil Pengujian dan analisis Loadtesting menggunakan Locust
+## Hasil Pengujian dan Analisis Loadtesting Menggunakan Locust
 
 ## Kesimpulan
 
